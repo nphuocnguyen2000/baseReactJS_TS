@@ -1,0 +1,11 @@
+{
+  "target": "Source code ReactJS LDK Software",
+  "title": "Đăng ký",
+  "description": "Đăng ký tài khoản mới của bạn để bắt đầu sử dụng LDK",
+  "emailPlaceholder": "Email",
+  "firstNamePlaceholder": "Tên",
+  "lastNamePlaceholder": "Họ",
+  "passwordPlaceholder": "Mật khẩu",
+  "signIn": "Đã có tài khoản? Đăng nhập",
+  "submitButton": "Đăng ký"
+}
