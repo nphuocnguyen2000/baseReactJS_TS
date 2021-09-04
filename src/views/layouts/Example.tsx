@@ -6,9 +6,11 @@ type Props = {
 
 const ExampleLayout: FC<Props> = ({ children }) => {
   return (
+
     <div className="min-h-screen">
       <main>{children}</main>
     </div>
+    
   );
 };
 
